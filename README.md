@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Reinforcement Learning**
 
-- 📫 How to reach me **aq15777@bristol.ac.uk**
+- 📫 How to reach me **alexander@quessy.io**
 
 - 📄 Know about my experiences [CV](https://aos55.github.io/assets/pdf/CV.pdf)
 
