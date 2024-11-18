@@ -1,10 +1,10 @@
 
-## Hi, I'm Alex!
+# Hi, I'm Alex!
 
-- 👨🏻‍💻 Engineer and Researcher with a passion for building systems that automate decision-making under uncertainty.
-- 🤖 Specialize in Machine Learning, Reinforcement Learning and high performance simulations. 
-- 🎓 PhD in Machine Learning from the [University of Bristol](https://www.bristol.ac.uk)
-- 📫 Get in touch at alexander@quessy.io or explore my work at aos55.github.io.
+👨🏻‍💻 Engineer and Researcher with a passion for building systems that automate decision-making under uncertainty. <br/>
+🤖 Specialize in Machine Learning, Reinforcement Learning and high performance simulations. <br/>
+🎓 PhD in Machine Learning from the [University of Bristol](https://www.bristol.ac.uk). <br/>
+📫 Get in touch at alexander@quessy.io or explore my work at aos55.github.io. <br/>
 
 
 ## 💻 Tech Stack:
